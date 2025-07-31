@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Grace Madison Wu <br>
+### Grace Madison Wu <br>
 Rising Sophomore (Junior Standing), Columbia University <br>
 Major: Financial Engineering | Minors: Sustainable Engineering, Applied Math
 
