@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Grace Madison Wu <br>
-Rising Sophomore (Junior Standing), Columbia University <br>
+Rising Sophomore (Junior Standing) at Columbia University <br>
 Major: Financial Engineering | Minors: Sustainable Engineering, Applied Math
 
 Driven by a passion for numbers and nature, I am fascinated by the intersection of data, finance, and sustainability. My interests include sustainable and impact investing, quantitative research, and environmental risk management.
