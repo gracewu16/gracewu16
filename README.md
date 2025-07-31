@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 Grace Madison Wu <br>
 Rising Sophomore (Junior Standing), Columbia University <br>
-Major: Financial Engineering | Minors: Sustainable Engineering, Applied Math<br>
+Major: Financial Engineering | Minors: Sustainable Engineering, Applied Math
 
-Driven by a passion for numbers and nature, I am fascinated by the intersection of data, finance, and sustainability. My interests include sustainable and impact investing, quantitative research, and environmental risk management.<br><br>
+Driven by a passion for numbers and nature, I am fascinated by the intersection of data, finance, and sustainability. My interests include sustainable and impact investing, quantitative research, and environmental risk management.
 
-I bring extensive experience in Python, with proficiency in machine learning and data science libraries such as Scikit-learn, TensorFlow, Keras, Pandas, NumPy, PyTorch, and Seaborn. Through Break Through Tech AI, I’ve applied advanced ML and deep learning models to real-world business challenges in collaboration with industry partners. My research at UW-Madison's Materials Science and Engineering department further honed my analytical and data-driven problem-solving skills.<br><br>
+I bring extensive experience in Python, with proficiency in machine learning and data science libraries such as Scikit-learn, TensorFlow, Keras, Pandas, NumPy, PyTorch, and Seaborn. Through Break Through Tech AI, I’ve applied advanced ML and deep learning models to real-world business challenges in collaboration with industry partners. My research at UW-Madison's Materials Science and Engineering department further honed my analytical and data-driven problem-solving skills
 
-Leadership and collaboration are central to my approach:<br><br>
+Leadership and collaboration are central to my approach:
 
 * As Vice President of my class, I partner with administrators and committees to organize community initiatives, manage finances, and enhance the student experience.<br>
 * As Vice President of Columbia Lioness Quantitative (sponsored by Hudson River Trading and Citadel), I help develop quantitative finance curricula and facilitate connections with leading firms, supporting women’s inclusion in the field.<br><br>
