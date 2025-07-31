@@ -26,9 +26,10 @@ Leadership and collaboration are central to my approach:
 
 * As Vice President of my class, I partner with administrators and committees to organize community initiatives, manage finances, and enhance the student experience.<br>
 * As Vice President of Columbia Lioness Quantitative (sponsored by Hudson River Trading and Citadel), I help develop quantitative finance curricula and facilitate connections with leading firms, supporting women’s inclusion in the field.<br><br>
+
 I am eager to pursue opportunities in sustainable investment and quantitative trading development. Long term, I aspire to launch a startup focused on sustainability or animal welfare, leveraging data and innovation for real-world impact.
 
 LinkedIn: grace-wu-bb3b40214<br>
 YouTube: @iamgracemadisonwu<br><br>
 
-Fun facts: I hope to have a pet raccoon and a pet pigeon someday!
+*Fun facts: I hope to have a pet raccoon and a pet pigeon someday!*
